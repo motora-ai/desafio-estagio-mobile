@@ -36,4 +36,4 @@ Este projeto serve como uma introdução ao consumo de dados. Sinta-se à vontad
 Pode ser enviado ou o link no github do projeto publico ou o zip do codigo para o e-mail: rogerio.medeiros@motora.ai.
 
 # Prazo
-Deve ser enviado até o dia 2 de dezembro.
+Deve ser enviado até o dia 4 de dezembro até 12:00.
