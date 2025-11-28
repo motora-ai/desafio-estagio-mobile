@@ -10,7 +10,6 @@ A Pokedex deve ser capaz de:
   - Nome
   - Imagem
   - Número na Pokedex
-  - Tipos
 - Ao clicar em um pokémon, abrir uma nova tela com os dados mencionados anteriormente, juntamente com uma descrição do pokémon e um link para possíveis evoluções; (api/v2/evolution-chain/{id})
 - Permitir a busca na tela de listagem de pokémons pelo nome completo ou id.
 
@@ -24,7 +23,8 @@ A Pokedex deve ser capaz de:
 
 ### 1. Interface
 
-Para implementar a interface deste projeto utilize a linguagem/framework que tiver familiaridade.
+A interface deve ser desenvolvida como um **aplicativo mobile**.
+Você pode utilizar qualquer linguagem ou framework mobile com o qual já tenha familiaridade.
 
 **Recomendação**: Caso não tenha familiaridade com nenhum framework ou linguagem utilizada em mobile, nossa recomendação é a utilização do framework [Flutter](https://docs.flutter.dev/get-started/).
 
