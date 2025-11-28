@@ -33,7 +33,7 @@ Para implementar a interface deste projeto utilize a linguagem/framework que tiv
 Este projeto serve como uma introdução ao consumo de dados. Sinta-se à vontade para novos recursos adicionais ou melhorias à Pokedex conforme desejar. A exploração e expansão do projeto são incentivadas para aprofundar seu aprendizado.
 
 ## Envio
-Pode ser enviado ou o link no github do projeto publico ou o zip do codigo para o e-mail: rogerio.medeiros@motora.ai ou responder esse e-mail.
+Pode ser enviado ou o link no github do projeto publico ou o zip do codigo para o e-mail: rogerio.medeiros@motora.ai.
 
 # Prazo
 Deve ser enviado até o dia 2 de dezembro.
